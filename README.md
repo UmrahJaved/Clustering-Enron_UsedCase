@@ -20,13 +20,13 @@ Product Backlog:<br>
 <br><br>
 <h2> Day 1 >/h2><br><br>
  
-Jari & Umrah:
--[X] Data Extraction  
--[X] Data Exploration
+Jari & Umrah:  
+- [X] Data Extraction  
+- [X] Data Exploration
   
-Vincent & Yass:
--[X] Choose ML model  
--[X] Feature Engineeing
+Vincent & Yass:  
+- [X] Choose ML model  
+- [X] Feature Engineeing
 
 <p align="center"><img src="https://user-images.githubusercontent.com/96992159/162693719-ab5c4ff5-a9d2-412e-836d-282dfd462c55.png"></p>
 
