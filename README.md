@@ -18,7 +18,7 @@ Product Backlog:<br>
 - [ ] Story 12 - Deployment
 - [ ] Story 13 - PPT 
 <br><br>
-<h2> Day 1 >/h2><br><br>
+<h2> Day 1 </h2><br><br>
  
 Jari & Umrah:  
 - [X] Data Extraction  
