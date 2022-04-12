@@ -36,9 +36,7 @@ Vincent & Yass:
 - [X] Feature Engineeing
 
 # Day 2
-## Jari :
-- [ ] Tech Talk
-- [ ] Q&D Piloting
+
   
 | Person      | ToDo | Blocking       |
 | ---------- | ---- | ------------- |
