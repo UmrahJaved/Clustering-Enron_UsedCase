@@ -11,7 +11,7 @@
 - [X] Story 2 - Data Extraction  
 - [X] Story 3 - Data Exploration  
 - [ ] Story 4 - Data Cleaning  
-- [ ] Story 5 - Data Visualization  
+- [X] Story 5 - Data Visualization  
 
 ## Machine learning modelling
 - [X] Story 6 - Choose ML model  
@@ -39,31 +39,32 @@
   
 | Person      | ToDo | Blocking       | Done |
 | ---------- | ---- | ------------- | ----------|
-| Jari      |  Tech Talk, Q&D Piloting |  | Q&D piloting done, TechTalk NOT|
-| Yass |   Research to understand process for topic modeling |understanding clustering| reviwing jari's script to understand his pilot 
-| Umrah |   Research to understand topic modelling, Experiment code| |
-| Vincent      |   Research to understand topic modelling   |  |
+| Jari      |  Tech Talk, Q&D Piloting | Sub-clustering | Q&D piloting done, TechTalk NOT|
+| Yass |   Research to understand process for topic modeling |Understanding clustering| Reviwing Jari's script to understand his pilot 
+| Umrah |   Research to understand topic modelling, Experiment code| Understanding few concepts of the Jari's code  | Researched important concepts and did exploratory analysis
+| Vincent      |   Research to understand topic modelling  | Clearity of end result   | Researched concepts of topic modelling
 
   Common Goals for the day:
-  - [ ] Follow tutorials
-  - [ ] Get familiar with the concept (vectorization/nltk, stop-words...)
-  - [ ] Experiment on Code
+  - [X] Follow tutorials
+  - [X] Get familiar with the concept (vectorization/nltk, stop-words...)
+  - [X] Experiment on Code
 
  <h2> Day 3 </h2><br><br>
   
 | Person      | ToDo | Blocking       | Done |
 | ---------- | ---- | ------------- | ----------|
-| Jari      | lemmatization version to file. One level hierachy to the model   |  |
-| Yass |TBD|  |
-| Umrah |   | |
-| Vincent      |     |  |
-  
+| Jari      | Lemmatization version to file, One level hierachy to the model   |  |
+| Yass | Tokenistation , Working on Jari script|  |
+| Umrah | K-means Machine Learning, Modelling  | |
+| Vincent      | Review code and get familiar with concept   |  |
+ 
   Common Goals for the day:
-  - [ ] Follow tutorials
-  - [ ] Get familiar with the concept (vectorization/nltk, stop-words...)
-  - [ ] Experiment on Code
+  - [ ] Code Review
+  - [ ] Get familiar with the concepts (Tokensation.... )
+   
+ 
   
-  <h2> Day 3 </h2><br><br>
+  <h2> Day 4 </h2><br><br>
   
 | Person      | ToDo | Blocking       | Done|
 | ---------- | ---- | ------------- | --------
