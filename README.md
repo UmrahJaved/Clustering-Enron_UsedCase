@@ -40,7 +40,7 @@
 | Person      | ToDo | Blocking       | Done |
 | ---------- | ---- | ------------- | ----------|
 | Jari      |  Tech Talk, Q&D Piloting |  | Q&D piloting done, TechTalk NOT|
-| Yass |   Research to understand topic modelling  |  |
+| Yass |   Research to understand topic clustering  | reviwing jari's script to understand his pilot |
 | Umrah |   Research to understand topic modelling, Experiment code| |
 | Vincent      |   Research to understand topic modelling   |  |
 
