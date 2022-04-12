@@ -44,6 +44,11 @@
 | Umrah |   Research to understand topic modelling, Experiment code| |
 | Vincent      |   Research to understand topic modelling   |  |
 
+  Common Goals for the day:
+  - [ ] Follow tutorials
+  - [ ] Get familiar with the concept (vectorization/nltk, stop-words...)
+  - [ ] Experiment on Code
+
  <h2> Day 3 </h2><br><br>
   
 | Person      | ToDo | Blocking       | Done |
