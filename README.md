@@ -40,7 +40,7 @@ Vincent & Yass:
 - [ ] Tech Talk
 - [ ] Q&D Piloting
   
-| Person      | ToDo | Comment       |
+| Person      | ToDo | Blocking       |
 | ---------- | ---- | ------------- |
 | Jari      | - [ ] Tech Talk, - [ ] Q&D Piloting   |       |
 | Yass |  - [ ] Research to understand topic modelling  |  |
