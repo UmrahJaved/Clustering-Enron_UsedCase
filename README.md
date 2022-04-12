@@ -38,12 +38,20 @@
 <h2> Day 2 </h2><br><br>
   
 | Person      | ToDo | Blocking       | Done |
-| ---------- | ---- | ------------- | ----------
-| Jari      |  Tech Talk, Q&D Piloting   |       |
+| ---------- | ---- | ------------- | ----------|
+| Jari      |  Tech Talk, Q&D Piloting   | Q&D piloting has been done, TechTalk is |
 | Yass |   Research to understand topic modelling  |  |
 | Umrah |   Research to understand topic modelling, Experiment code| |
 | Vincent      |   Research to understand topic modelling   |  |
 
+ <h2> Day 3 </h2><br><br>
+  
+| Person      | ToDo | Blocking       | Done |
+| ---------- | ---- | ------------- | ----------|
+| Jari      | Building hierachy to the model   |  |
+| Yass |    |  |
+| Umrah |   | |
+| Vincent      |     |  |
   
   Common Goals for the day:
   - [ ] Follow tutorials
