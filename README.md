@@ -38,8 +38,15 @@ Vincent & Yass:
 # Day 2
 ## Jari :
 - [ ] Tech Talk
-- [ ] 
+- [ ] Q&D Piloting
   
+| Person      | ToDo | Comment       |
+| ---------- | ---- | ------------- |
+| Jari      | - [ ] Tech Talk, - [ ] Q&D Piloting   |       |
+| Yass |  - [ ] Research to understand topic modelling  |  |
+| Umrah | - [ ] Research to understand topic modelling,  - [ ] Experiment code| |
+| Vincent      |  - [ ] Research to understand topic modelling   |  |
+
   
   - [ ] follow tutorials
   - [ ] get familiar with the concept (vectorization/nltk, stop-words...)
