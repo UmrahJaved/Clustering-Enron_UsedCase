@@ -39,7 +39,7 @@
   
 | Person      | ToDo | Blocking       | Done |
 | ---------- | ---- | ------------- | ----------|
-| Jari      |  Tech Talk, Q&D Piloting |  | Q&D piloting has been done, TechTalk will be done in the evening|
+| Jari      |  Tech Talk, Q&D Piloting |  | Q&D piloting done, TechTalk in the evening|
 | Yass |   Research to understand topic modelling  |  |
 | Umrah |   Research to understand topic modelling, Experiment code| |
 | Vincent      |   Research to understand topic modelling   |  |
