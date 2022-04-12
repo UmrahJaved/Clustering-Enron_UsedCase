@@ -48,7 +48,7 @@
   
 | Person      | ToDo | Blocking       | Done |
 | ---------- | ---- | ------------- | ----------|
-| Jari      | Building hierachy to the model   |  |
+| Jari      | lemmatization version to file. One level hierachy to the model   |  |
 | Yass |    |  |
 | Umrah |   | |
 | Vincent      |     |  |
