@@ -130,3 +130,10 @@ dmypy.json
 
 # Datasets
 data/
+enron/
+tar/
+csv/
+nltk_data/
+mallet-2.0.8/
+
+read_csv.py
