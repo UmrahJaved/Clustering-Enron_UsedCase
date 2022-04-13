@@ -53,7 +53,7 @@
   
 | Person      | ToDo | Blocking       | Done |
 | ---------- | ---- | ------------- | ----------|
-| Jari      | Lemmatization version to file, One level hierachy to the model   |  |
+| Jari      | emails: (i) best emails to given topic, (ii) Dominant topic for emails   |  |
 | Yass | Tokenistation , Working on Jari script|  |
 | Umrah | K-means Machine Learning, Modelling  | |
 | Vincent      | Review code and get familiar with concept   |  |
@@ -68,7 +68,7 @@
   
 | Person      | ToDo | Blocking       | Done|
 | ---------- | ---- | ------------- | --------
-| Jari      |     |       |
+| Jari      | Lemmization to a file, LDA hierarchy   |       |
 | Yass |     |  |
 | Umrah |   | |
 | Vincent      |    |  |
