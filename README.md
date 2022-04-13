@@ -53,7 +53,7 @@
   
 | Person      | ToDo | Blocking       | Done |
 | ---------- | ---- | ------------- | ----------|
-| Jari      | emails: (i) best emails to given topic, (ii) Dominant topic for emails  | We were planning until noon | Started, but not finished |
+| Jari      | emails: (i) best emails to given topic, (ii) Dominant topic for emails  | We were planning until noon | Done |
 | Yass | Tokenistation , Working on Jari script|  |
 | Umrah | K-means Machine Learning, Modelling  | |
 | Vincent      | Review code and get familiar with concept   |  |
