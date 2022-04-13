@@ -55,7 +55,7 @@
 | ---------- | ---- | ------------- | ----------|
 | Jari      | Exploring Emails: (1) Finding best emails to given topic, (2) Dominant topic for emails  | Long time for reviewing code | To do all done |
 | Yass | Tokenistation , Working on Jari script| Familiarizing with concepts  | Code Review, Deployment Script
-| Umrah | K-means Machine Learning, Modelling  | Familiarizing with concepts | Done with code review, Understood the LDA and K-means, Working oon deployment script|
+| Umrah | K-means Machine Learning, Modelling  | Familiarizing with concepts | Done with code review, Understood the LDA and K-means, Working on deployment script|
 | Vincent      | Review code and get familiar with concept, Coding for Email Analysis    |  Importing libraries  | Done with code review, Started email analysis 
  
   Common Goals for the day:
