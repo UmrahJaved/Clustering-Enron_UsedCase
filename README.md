@@ -10,18 +10,18 @@
 - [X] Story 1 - Data Source Connection  
 - [X] Story 2 - Data Extraction  
 - [X] Story 3 - Data Exploration  
-- [ ] Story 4 - Data Cleaning  
+- [X] Story 4 - Data Cleaning  
 - [X] Story 5 - Data Visualization  
 
 ## Machine learning modelling
 - [X] Story 6 - Choose ML model  
 - [ ] Story 7 - Feature Engineering  
-- [ ] Story 8 - Fit Model  
+- [X] Story 8 - Fit Model  
 - [ ] Story 9 - Model Predict  
-- [ ] Story 10 - Model Visualization  
+- [X] Story 10 - Model Visualization  
 
 ## Deployment
-- [ ] Story 11 - Choose Mode of Deployment  
+- [X] Story 11 - Choose Mode of Deployment  
 - [ ] Story 12 - Deployment  
 - [ ] Story 13 - PPT  
   
@@ -53,14 +53,14 @@
   
 | Person      | ToDo | Blocking       | Done |
 | ---------- | ---- | ------------- | ----------|
-| Jari      | emails: (i) best emails to given topic, (ii) Dominant topic for emails  | We were planning until noon | Done |
-| Yass | Tokenistation , Working on Jari script|  |
-| Umrah | K-means Machine Learning, Modelling  | |
-| Vincent      | Review code and get familiar with concept   |  |
+| Jari      | Exploring Emails: (1) Finding best emails to given topic, (2) Dominant topic for emails  | Long time for reviewing code | To do all done |
+| Yass | Tokenistation , Working on Jari script| Familiarizing with concepts  | Code Review, Deployment Script
+| Umrah | K-means Machine Learning, Modelling  | Familiarizing with concepts | Done with code review, Understood the LDA and K-means, Working oon deployment script|
+| Vincent      | Review code and get familiar with concept, Coding for Email Analysis    |  Importing libraries  | Done with code review, Started email analysis 
  
   Common Goals for the day:
-  - [ ] Code Review
-  - [ ] Get familiar with the concepts (Tokensation.... )
+  - [X] Code Review
+  - [X] Get familiar with the concepts (Tokensation.... )
    
  
   
@@ -69,12 +69,25 @@
 | Person      | ToDo | Blocking       | Done|
 | ---------- | ---- | ------------- | --------
 | Jari      | Lemmization to a file, LDA hierarchy   |       |
-| Yass |     |  |
-| Umrah |   | |
-| Vincent      |    |  |
+| Yass | Create Deployment Script    |  |
+| Umrah |Create Deployment Script, PPT prepartion | |
+| Vincent      | Code for Email Analysis     |  |
+  
+Common Goals for the day:
+  - [ ] Finalizing Topic modelling
+  - [ ] Creating PPT
+  - [ ]  Create Deployment Script
+    
 
+ <h2> Day 5 </h2><br><br>
   
-  
+| Person      | ToDo | Blocking       | Done|
+| ---------- | ---- | ------------- | --------
+| Jari      |    |       |
+| Yass |    |  |
+| Umrah |   | |
+| Vincent      |      |  |
+
   
   
 
