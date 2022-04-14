@@ -133,5 +133,7 @@ tar/
 csv/
 nltk_data/
 mallet-2.0.8/
+calc_data/
 
 read_csv.py
+README.md
