@@ -37,6 +37,9 @@ def load_files(test : bool = True) ->  Union[list, list, Object]:
 
     with open("./calc_data/data.pkl", 'rb') as my_pickle:
         data = pickle.load(my_pickle)
+
+    with open("./calc_data/enron_df.pkl", 'rb') as my_pickle:
+        enron = pickle.load(my_pickle)
     
     #corpora is a dill file (module cannot be pickled)
     with open("./calc_data/corpora.dill", 'rb') as f:
@@ -45,6 +48,7 @@ def load_files(test : bool = True) ->  Union[list, list, Object]:
     if test:
         data_lemmatized = data_lemmatized[:1000]
         data = data[:1000]
+        enron = enron[:1000]
 
     return data_lemmatized, data, corpora
 
