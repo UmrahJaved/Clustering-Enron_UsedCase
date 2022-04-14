@@ -68,7 +68,7 @@
   
 | Person      | ToDo | Blocking       | Done|
 | ---------- | ---- | ------------- | --------
-| Jari      | Lemmization to a file, LDA hierarchy   |       |
+| Jari      | Lemmization to a file, LDA hierarchy   | Lemmization to a file, LDA hierarchy started but not ready      |
 | Yass | Create Deployment Script    |  |
 | Umrah |Create Deployment Script, PPT prepartion | |
 | Vincent      | Code for Email Analysis     |  |
@@ -83,7 +83,7 @@ Common Goals for the day:
   
 | Person      | ToDo | Blocking       | Done|
 | ---------- | ---- | ------------- | --------
-| Jari      |    |       |
+| Jari      |   LDA hierarchy |       |
 | Yass |    |  |
 | Umrah |   | |
 | Vincent      |      |  |
