@@ -83,7 +83,7 @@ Common Goals for the day:
   
 | Person      | ToDo | Blocking       | Done|
 | ---------- | ---- | ------------- | --------
-| Jari      |   LDA hierarchy |       |
+| Jari      |  |    LDA hierarchy     |
 | Yass |    |  |
 | Umrah |   | |
 | Vincent      |      |  |
