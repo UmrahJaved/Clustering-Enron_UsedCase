@@ -15,15 +15,18 @@
 
 ## Machine learning modelling
 - [X] Story 6 - Choose ML model  
-- [ ] Story 7 - Feature Engineering  
+- [X] Story 7 - Feature Engineering  
 - [X] Story 8 - Fit Model  
-- [ ] Story 9 - Model Predict  
-- [X] Story 10 - Model Visualization  
+- [X] Story 9 - Model Predict  
+- [X] Story 10 - Model Visualization 
+  - [ ] Finalizing Model
 
 ## Deployment
 - [X] Story 11 - Choose Mode of Deployment  
 - [ ] Story 12 - Deployment  
-- [ ] Story 13 - PPT  
+- [ ] Story 13 - PPT 
+  - [ ] Finalizing Deployment
+  - [ ] Finalizing PPT
   
 <br><br>
 <h1>ROADMAP :</h1>
@@ -68,15 +71,15 @@
   
 | Person      | ToDo | Blocking       | Done|
 | ---------- | ---- | ------------- | --------
-| Jari      | Lemmization to a file, LDA hierarchy   | Lemmization to a file, LDA hierarchy started but not ready      |
-| Yass | Create Deployment Script    |  |
-| Umrah |Create Deployment Script, PPT prepartion | |
-| Vincent      | Code for Email Analysis     |  |
+| Jari      | Lemmization to a file, LDA hierarchy   | LDA Hierarchy | Lemmization to a file, LDA Hierarchy started but not ready
+| Yass | Create Deployment Script    |  | Create Deployment Script
+| Umrah |Create Deployment Script, PPT prepartion | Library issues | PPT prepartion and 
+| Vincent      | Code for Email Analysis     | Library issues  | Tech talk, Code testing|
   
 Common Goals for the day:
   - [ ] Finalizing Topic modelling
-  - [ ] Creating PPT
-  - [ ]  Create Deployment Script
+  - [X] Creating PPT
+  - [X]  Create Deployment Script
     
 
  <h2> Day 5 </h2><br><br>
@@ -84,10 +87,13 @@ Common Goals for the day:
 | Person      | ToDo | Blocking       | Done|
 | ---------- | ---- | ------------- | --------
 | Jari      | LDA hierarchy  |        |
-| Yass |    |  |
-| Umrah |   | |
-| Vincent      |      |  |
+| Yass | Finalizing Deployment |  |
+| Umrah | Finalizing PPT  | |
+| Vincent  | Finalizing PPT      |  |
 
-  
+Common Goals for the day:
+  - [ ] Finalizing Topic modelling
+  - [ ] Finalizing PPT
+  - [ ] Finalizing Deployment Script  
   
 
