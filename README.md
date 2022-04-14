@@ -71,9 +71,9 @@
   
 | Person      | ToDo | Blocking       | Done|
 | ---------- | ---- | ------------- | --------
-| Jari      | Lemmization to a file, LDA hierarchy   |  | Lemmization to a file, LDA Hierarchy started but not ready
-| Yass | Create Deployment Script    |  | Create Deployment Script
-| Umrah |Create Deployment Script, PPT prepartion | Library issues | PPT prepartion and 
+| Jari      | Lemmization to a file, LDA hierarchy   | - | Lemmization to a file, LDA Hierarchy started but not ready
+| Yass | Create Deployment Script    | Git hub pushing file | Create Deployment Script
+| Umrah |Create Deployment Script, PPT prepartion | Library issues | PPT prepartion and Code testing
 | Vincent      | Code for Email Analysis     | Library issues  | Tech talk, Code testing|
   
 Common Goals for the day:
