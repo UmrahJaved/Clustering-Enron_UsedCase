@@ -2,11 +2,16 @@
 <p align="center"><img src="https://becode.org/app/uploads/2021/06/logo-becode.png" alt="Logo" width="200" height="200"></a></p>
 <h3 align="center"> Enron Email Analysis — Clustering (ML) at <a href="https://github.com/becodeorg"><strong>BeCode</strong></a></center>
 <h3 align="center"> Contributors: <a href="https://github.com/jarieramaa">Jari Erämaa, <a href="https://github.com/yassbarona">Yass Barona, <a href="https://github.com/VincentPalau">Vincent Palau, <a href="https://github.com/UmrahJaved">Umrah Javed</a></h3><br><br>
+
+### Google Slide : <a href = "https://docs.google.com/presentation/d/1YziW_5VHx0uBhnH2SThN5gf80MxeF0v7VmarSHLUw24/edit#slide=id.g1249ba02cf9_0_396"> Presentation<br><br>
   
 <p align="center"><img src="https://user-images.githubusercontent.com/96992159/162693719-ab5c4ff5-a9d2-412e-836d-282dfd462c55.png" width="800" height="400"></p>
-<h1>Product Backlog:</h1> 
 
+
+<h1>Product Backlog:</h1> 
+  
 ## Pre-processing
+  
 - [X] Story 1 - Data Source Connection  
 - [X] Story 2 - Data Extraction  
 - [X] Story 3 - Data Exploration  
@@ -19,14 +24,14 @@
 - [X] Story 8 - Fit Model  
 - [X] Story 9 - Model Predict  
 - [X] Story 10 - Model Visualization 
-  - [ ] Finalizing Model
+  - [X] Finalizing Model
 
 ## Deployment
 - [X] Story 11 - Choose Mode of Deployment  
-- [ ] Story 12 - Deployment  
-- [ ] Story 13 - PPT 
-  - [ ] Finalizing Deployment
-  - [ ] Finalizing PPT
+- [X] Story 12 - Deployment  
+- [X] Story 13 - PPT 
+  - [X] Finalizing Deployment
+  - [X] Finalizing PPT
   
 <br><br>
 <h1>ROADMAP :</h1>
@@ -77,7 +82,7 @@
 | Vincent      | Code for Email Analysis     | Library issues  | Tech talk, Code testing|
   
 Common Goals for the day:
-  - [ ] Finalizing Topic modelling
+  - [X] Finalizing Topic modelling
   - [X] Creating PPT
   - [X]  Create Deployment Script
     
@@ -86,14 +91,14 @@ Common Goals for the day:
   
 | Person      | ToDo | Blocking       | Done|
 | ---------- | ---- | ------------- | --------
-| Jari      | LDA hierarchy  |        |
-| Yass | Finalizing Deployment |  |
-| Umrah | Finalizing PPT  | |
-| Vincent  | Finalizing PPT      |  |
+| Jari      | LDA hierarchy  |  -      |LDA hierarchy, Finalizing Machine Learning|
+| Yass | Finalizing Deployment | - | Finalizing Deployment |
+| Umrah | Finalizing PPT  | - |Finalizing PPT |
+| Vincent  | Finalizing PPT      | - |Finalizing PPT |
 
 Common Goals for the day:
-  - [ ] Finalizing Topic modelling
-  - [ ] Finalizing PPT
-  - [ ] Finalizing Deployment Script  
+  - [X] Finalizing Topic modelling
+  - [X] Finalizing PPT
+  - [X] Finalizing Deployment Script  
   
 
