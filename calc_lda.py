@@ -43,9 +43,9 @@ def load_files(test : bool = True) ->  Union[list, pd.DataFrame]:
         enron = pickle.load(my_pickle)
 
     if test:
-        data_lemmatized = data_lemmatized[:100000]
+        data_lemmatized = data_lemmatized[:10]
         #data = data[:1000]
-        enron = enron[:100000]
+        enron = enron[:10]
     return data_lemmatized, enron
 
 
