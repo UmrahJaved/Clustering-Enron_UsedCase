@@ -134,6 +134,8 @@ csv/
 nltk_data/
 mallet-2.0.8/
 calc_data/
+Exploration/
+result/
 
 read_csv.py
 README.md
