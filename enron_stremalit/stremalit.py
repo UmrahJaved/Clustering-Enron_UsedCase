@@ -6,7 +6,7 @@ with st.sidebar:
   
   page = st.radio(
       "",
-      ('Introduction', 'LDA Model','Plots'))
+      ('Introduction', 'LDA Model'))
 
 
 if page == 'Introduction':
@@ -33,62 +33,57 @@ elif page == 'LDA Model':
   and finally a dataframe containing the top emails related to these terms""")
 
   with st.container():
-    df = pd.read_csv('/home/becode2/enron_DF/enron_stremalit/sample.csv')
+    df = pd.read_csv('/home/becode2/enron_DF/enron_stremalit/result.csv')
+    df2 = df.drop(columns=['Dominant_Topic'])
     first_level = st.container()
     second_level = st.container()
-    topics = ['000','001', '010', '011']
-    line_selected = ""
+    third_level = st.container()
+    df3 = df['enron_content'].loc[df["Topic_hier"].str.startswith('[0') == True].head(20)
+    df4 = df['enron_content'].loc[df["Topic_hier"].str.startswith('[1') == True].head(20)
+    topics = ["Enron ", "Market", "Comunication", "Law"]
+    subtopics = ['Phillip', 'Accounting', 'Comunication','Gas', 'Closing', 'Business','Law','Documents']
+    x1= "Phillip"
+    x2= "Accounting"
+    x3= ""
+    x4= " "
+    
     with first_level:
       col1, col2, col3, col4 = st.columns(4)
-
       st.header("")
 
       with col1:
         if st.button(topics[0]):
-          line_selected = "/home/becode2/enron_DF/enron_stremalit/Analyzing-Enron-Blog-Header-v1.png"
-
+          x1 = subtopics[0]
+          x2 = subtopics[1]
       with col2:
         if st.button(topics[1]):
-          line_selected = "/home/becode2/enron_DF/enron_stremalit/Analyzing-Enron-Blog-Header-v1.png"
+          x1 = subtopics[2]
+          x2 = subtopics[3]
       with col3:
         if st.button(topics[2]):
-          line_selected =  "/home/becode2/enron_DF/enron_stremalit/Analyzing-Enron-Blog-Header-v1.png"
+          x1 = subtopics[4]
+          x2 = subtopics[5]
       with col4:
         if st.button(topics[3]):
-          line_selected =  "/home/becode2/enron_DF/enron_stremalit/Analyzing-Enron-Blog-Header-v1.png"
-
-    with second_level:
-      img_file = line_selected
-      st.image(img_file)
-
-      col1, col2, col3, col4, col5, col6, col7, col8 = st.columns(8)
-
-      subtopics = ['0000', '0001', '0010','0011', '0100', '0101','0110','0111']
-
-      st.header("")
-      with col1:
-        if st.button(subtopics[0]):
-          
-      with col2:
-        if st.button(topics[1]):
-          
-      with col3:
-        if st.button(topics[2]):
-
-      with col4:
-        if st.button(topics[3]):    
-
-      with col5:
-        if st.button(topics[4]):
-
-      with col6:
-        if st.button(subtopics[5]):
-          
-      with col7:
-        if st.button(topics[6]):
-          
-      with col8:
-        if st.button(topics[7]):
-
-else:
-  st.write('done')
+          x1 = subtopics[6]
+          x2 = subtopics[7]
+  with second_level:
+    col1_1, col2_1, col3_1, col_4_1  = st.columns(4)
+    with col2_1:
+      if st.button(x1):
+        x3 = 'Phillip'
+        x4 = 'Closing'
+    with col3_1:
+      if st.button(x2):
+        x3 = 'Accounting'
+        x4 = 'Business'
+  with third_level:
+    with st.expander('EMAILS'):
+      if x3 == 'Phillip':
+        st.dataframe(df3) 
+      elif x3 == 'Accounting':
+        st.dataframe(df4)
+      elif x4 == 'Closing':
+        st.dataframe(df4)
+      elif x4 == 'Business':
+        st.dataframe(df4)
